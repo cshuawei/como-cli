@@ -38,5 +38,6 @@ Your project template has been created, see: ....../project-demo
 #### 选项说明
 
 - ***Input your project name:*** 最终创建的项目名称
-- ***Choose a template:*** vue-admin选项表示管理端模板，vue-mobile选项表示移动端H5模板
-- ***Pull source:*** Pull from local como-cli service选项表示从安装到全局的como-cli服务中拉取模板，Pull the latest from github选项表示直接从github上拉取最新的模板，但是可能存在破坏性或实验性的代码，拉取下来之后请及时删除或更新 .git 的远程链接，可执行终端命令：git remote set-url origin [git url]
+- ***Choose a template:*** *vue-admin* 选项表示管理端模板，*vue-mobile* 选项表示移动端H5模板
+- ***Pull source:*** *Pull from local como-cli service* 选项表示从安装到全局的como-cli服务中拉取模板，*Pull the latest from github* 选项表示直接从github上拉取最新的模板，但是可能存在破坏性或实验性的代码，拉取下来之后请及时删除或更新 .git 的远程链接，可执行终端命令：git remote set-url origin [git url]
+
