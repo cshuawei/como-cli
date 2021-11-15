@@ -1,0 +1,15 @@
+{
+  "name": "como-cli",
+  "version": "0.1.0",
+  "main": "index.js",
+  "bin": {
+    "como": "cli.js"
+  },
+  "description": "Scaffolding suitable for quick initialization of front-end projects.",
+  "author": "como",
+  "license": "MIT",
+  "devDependencies": {
+    "inquirer": "^8.2.0",
+    "shelljs": "^0.8.4"
+  }
+}
