@@ -6,27 +6,33 @@
 
 npm
 
-```
+```shell
 npm install -g como-cli
 ```
 
 yarn
 
-```
+```shell
 yarn global add como-cli 
+```
+
+## 发布
+
+```shell
+npm run release or yarn release
 ```
 
 ## 使用说明
 
 1. 终端输入：
 
-```
+```shell
 como create
 ```
 
 2. 根据提示输入并选择创建信息：
 
-```
+```shell
 ➜ como create
 ? Input your project name: (project-demo)
 ? Choose a template: vue-admin | vue-mobile
