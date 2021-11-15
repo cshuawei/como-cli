@@ -26,7 +26,14 @@ como create
 
 2. 根据提示输入并选择创建信息：
 
-![image-20211115163759096](/Users/como/Library/Application Support/typora-user-images/image-20211115163759096.png)
+```
+➜ como create
+? Input your project name: (project-demo)
+? Choose a template: vue-admin | vue-mobile
+? Pull source: ull from local como-cli service | Pull the latest from github
+Cloning into 'project-demo'...
+Your project template has been created, see: ....../project-demo
+```
 
 #### 选项说明
 
