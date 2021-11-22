@@ -36,7 +36,7 @@ como create
 ➜ como create
 ? Input your project name: (project-demo)
 ? Choose a template: vue-admin | vue-mobile
-? Pull source: ull from local como-cli service | Pull the latest from github
+? Pull source: Pull from local como-cli service | Pull the latest from github
 Cloning into 'project-demo'...
 Your project template has been created, see: ....../project-demo
 ```
